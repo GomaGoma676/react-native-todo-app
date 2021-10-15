@@ -3,7 +3,13 @@
     sudo npm i -g yarn
     sudo npm i -g expo-cli
 ### 1-2.  expo init
+~~~
     expo init todos-app
+~~~
+*Expo SDK43が正式リリースされるまでは、下記コマンドでβ版でプロジェクト作成
+~~~
+    EXPO_BETA=1 expo init todos-app
+~~~
 ### 1-3.  Redux Toolkit
     yarn add @reduxjs/toolkit
     yarn add react-redux
