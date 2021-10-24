@@ -1,7 +1,13 @@
 ## Project setup : 
 ### 1-1. yarn + expo-cli install *インストールしていない場合
-    sudo npm i -g yarn
-    sudo npm i -g expo-cli
+~~~
+sudo npm i -g yarn
+sudo npm i -g expo-cli
+~~~
+~~~
+expo --version
+4.12.10以降でexpo sdk43が自動的にインストールされます。
+~~~
 ### 1-2.  expo init
 ~~~
 expo init todos-app
