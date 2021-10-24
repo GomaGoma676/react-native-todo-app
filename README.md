@@ -1,5 +1,5 @@
 ## Project setup : 
-### 1-1. yarn + expo-cli install *インストールしていない場合
+### 1-1. yarn + expo-cli install
 ~~~
 sudo npm i -g yarn
 sudo npm i -g expo-cli
