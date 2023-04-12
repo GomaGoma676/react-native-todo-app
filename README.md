@@ -38,7 +38,7 @@ expo init todos-app
     expo install dotenv expo-constants
 ### 1-7.  Firebase setup  
 ~~~
-yarn add firebase@9.0.0-beta.7
+expo install firebase
 ~~~
 ### 1-8.  .env file
 ~~~
